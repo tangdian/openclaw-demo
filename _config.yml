@@ -1,0 +1,10 @@
+# Site Settings
+title: Hello World - 虾哥的测试页面 🦐
+description: OpenClaw AI Assistant Demo Page
+baseurl: ""
+url: "https://dean-tang.github.io"
+
+# Build Settings
+repository: dean-tang/openclaw-demo
+theme: jekyll-theme-hacker
+markdown: kramdown
